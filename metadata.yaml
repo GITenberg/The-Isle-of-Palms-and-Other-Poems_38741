@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9011
     wikipedia: http://en.wikipedia.org/wiki/John_Wilson_%28Scottish_writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38741#The-Isle-of-Palms-and-Other-Poems
 gutenberg_issued: '2012-02-02'
 gutenberg_type: Text
 identifiers:
