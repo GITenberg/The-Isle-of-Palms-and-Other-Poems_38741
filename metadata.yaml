@@ -1,0 +1,31 @@
+_repo: The-Isle-of-Palms-and-Other-Poems_38741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, John
+    aliases:
+    - Mullion, Mordecai
+    - North, Christopher
+    - Austin, Arthur
+    birthdate: 1785
+    deathdate: 1854
+    gutenberg_agent_id: '9011'
+    url: http://www.gutenberg.org/2009/agents/9011
+    wikipedia: http://en.wikipedia.org/wiki/John_Wilson_%28Scottish_writer%29
+description: ''
+gutenberg_issued: '2012-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scottish poetry'
+title: The Isle of Palms, and Other Poems
+url: http://www.gutenberg.org/ebooks/38741
